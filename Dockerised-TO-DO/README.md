@@ -62,8 +62,8 @@ Stage 2: Runtime
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/BurhanuddinLokhandwala10/TODO_DOCKER.git
-cd todo-docker
+git clone <repository-url>
+cd Dockerised-TO-DO
 ```
 
 **2. Build & Run**
